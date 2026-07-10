@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-56496930.zappy5.app
+https://example.com
 חנות הדרופשיפינג שתמיד מקדימה את הטרנדים. מבחר מוצרים לוהטים מישראל ומהעולם מחכה לכם. היכנסו עכשיו וגלו מה כולם קונים!
 
 ### איתור טרנדים
-https://-56496930.zappy5.app/trend-sourcing
+https://example.com/trend-sourcing
 חושפים את שיטת איתור הטרנדים הסודית שלנו. כך אנחנו מזהים מוצרים ויראליים לפני כולם עבור עסקי דרופשיפינג מצליח. כנסו להצצה נדירה!
 
 ### אודות
-https://-56496930.zappy5.app/about
+https://example.com/about
 הכירו את באזז גלובל: חזון מסחר אלקטרוני ללא גבולות, שמביא אליכם את המוצרים הכי מבוקשים. הדרופשיפינג ששינה את כללי המשחק. בואו להכיר מקרוב.
 
 ### שאלות נפוצות
-https://-56496930.zappy5.app/faq
+https://example.com/faq
 שאלות נפוצות על דרופשיפינג, שילוח ומכירות אונליין – כל מה שצריך לדעת כדי להתחיל להרוויח. קבלו תשובות מהירות וברורות שיקדמו אתכם עוד היום.
 
 ### צור קשר
-https://-56496930.zappy5.app/contact
+https://example.com/contact
 מוכנים להקפיץ את המכירות שלכם? צרו קשר עם צוות באזז גלובל ונבנה ביחד אסטרטגיית דרופשיפינג מנצחת. ההזדמנות שלכם מתחילה בלחיצה אחת.
 
 ### Products
-https://-56496930.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - באזז גלובל
 
 ### Cart
-https://-56496930.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-56496930.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-56496930.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-56496930.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-56496930.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-56496930.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - באזז גלובל
 
 ### Category
-https://-56496930.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - באזז גלובל
 
 ### תודה רבה | באזז גלובל
-https://-56496930.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-56496930.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-56496930.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-56496930.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Dropshipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-56496930.zappy5.app/sitemap.xml
-- Robots: https://-56496930.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-56496930.zappy5.app/llms-full.txt
-- Products (JSON): https://-56496930.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-56496930.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

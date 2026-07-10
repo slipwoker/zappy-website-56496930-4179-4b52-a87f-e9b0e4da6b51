@@ -1,0 +1,109 @@
+# באזז גלובל — Generative Engine Optimization Map
+
+> A dropshipping e-commerce store focused on selling the most trending and in-demand products both in Israel and globally. The vision is to create a successful online store that capitalizes on popular consumer trends, offering a curated selection of hot-selling items that appeal to a broad audience across different markets.
+
+---
+
+## Pages
+
+### בית
+https://-56496930.zappy5.app
+חנות הדרופשיפינג שתמיד מקדימה את הטרנדים. מבחר מוצרים לוהטים מישראל ומהעולם מחכה לכם. היכנסו עכשיו וגלו מה כולם קונים!
+
+### איתור טרנדים
+https://-56496930.zappy5.app/trend-sourcing
+חושפים את שיטת איתור הטרנדים הסודית שלנו. כך אנחנו מזהים מוצרים ויראליים לפני כולם עבור עסקי דרופשיפינג מצליח. כנסו להצצה נדירה!
+
+### אודות
+https://-56496930.zappy5.app/about
+הכירו את באזז גלובל: חזון מסחר אלקטרוני ללא גבולות, שמביא אליכם את המוצרים הכי מבוקשים. הדרופשיפינג ששינה את כללי המשחק. בואו להכיר מקרוב.
+
+### שאלות נפוצות
+https://-56496930.zappy5.app/faq
+שאלות נפוצות על דרופשיפינג, שילוח ומכירות אונליין – כל מה שצריך לדעת כדי להתחיל להרוויח. קבלו תשובות מהירות וברורות שיקדמו אתכם עוד היום.
+
+### צור קשר
+https://-56496930.zappy5.app/contact
+מוכנים להקפיץ את המכירות שלכם? צרו קשר עם צוות באזז גלובל ונבנה ביחד אסטרטגיית דרופשיפינג מנצחת. ההזדמנות שלכם מתחילה בלחיצה אחת.
+
+### Products
+https://-56496930.zappy5.app/products
+המוצרים שלנו - באזז גלובל
+
+### Cart
+https://-56496930.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-56496930.zappy5.app/checkout
+תשלום
+
+### Login
+https://-56496930.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-56496930.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-56496930.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-56496930.zappy5.app/product/:slug
+פרטי המוצר - באזז גלובל
+
+### Category
+https://-56496930.zappy5.app/category/:slug
+מוצרים - באזז גלובל
+
+### תודה רבה | באזז גלובל
+https://-56496930.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-56496930.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-56496930.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-56496930.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About באזז גלובל
+A dropshipping e-commerce store focused on selling the most trending and in-demand products both in Israel and globally. The vision is to create a successful online store that capitalizes on popular consumer trends, offering a curated selection of hot-selling items that appeal to a broad audience across different markets.
+
+## Target Audience
+- קונים בישראל ובעולם המחפשים מוצרים מבוקשים
+- קונים אופנתיים
+- קונים בינלאומיים
+- חובבי גאדג'טים טכנולוגיים
+
+## Industry
+E-commerce / Dropshipping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-56496930.zappy5.app/sitemap.xml
+- Robots: https://-56496930.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-56496930.zappy5.app/llms-full.txt
+- Products (JSON): https://-56496930.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-56496930.zappy5.app/product-feed.xml
